@@ -1,4 +1,4 @@
-package polytech;
+package polytech.introduction;
 
 public class firstLab {
     public static class Transport {
